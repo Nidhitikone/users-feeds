@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "id": 1,
+       "url":"https://animalcarecentersmyrna.com/wp-content/uploads/2021/03/beagle-sniffing-woman-at-a-table.jpeg",
+      "discription": "Dogs can smell your feelings."
+    },
+    {
+      
+      "id": 2,
+      "url":"https://www.bing.com/images/search?view=detailV2&ccid=2jVHDOzD&id=010D98C819904BD173ACC75B43D73DF64BE07B8B&thid=OIP.2jVHDOzDT0Gc6gk1ePWs6wHaHj&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fad%2f67%2f21%2fad6721c9a9f0691b7319ab8f4034b600.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.da35470cecc34f419cea093578f5aceb%3frik%3di3vgS%252fY910Nbxw%26pid%3dImgRaw%26r%3d0&exph=579&expw=568&q=Cat+Sleeping+Like+Human&simid=607989287421099305&FORM=IRPRST&ck=9B303875F16710FBCDB1FC01ED942045&selectedIndex=0",
+      "discription": "Cats are asleep for 70% of their life."
+    },
+    {
+      
+      "id": 3,
+      "url":"https://th.bing.com/th/id/R.03b5b349fc9ee39c03f0ab4166967da3?rik=XZ60ZQBYZzKNoQ&riu=http%3a%2f%2fwww.inspire52.com%2fwp-content%2fuploads%2f2014%2f01%2fKidAndDog.jpg&ehk=ZOf5G65I9A4A%2bXh9mE9hdfdIWhd33Jv6mpsQYl3euV4%3d&risl=&pid=ImgRaw&r=0",
+      "discription": "Children who have a pet dog are less likely to have anxiety."
+    },
+    {
+      
+      "id": 4,
+      "url":"https://www.india.com/wp-content/uploads/2017/11/12-3.jpg",
+      "discription": "Pet owners usually have better self-esteem, are more in shape, and are less lonely than those who do not own pets."
+    },
+    {
+      
+      "id": 5,
+      "url":"https://www.thesprucepets.com/thmb/lchT9GEvrZE-IAbBQY971A1xZZo=/5238x3348/filters:no_upscale():max_bytes(150000):strip_icc()/sick-dog-DavidYoung-Wolff-getty-56a26a365f9b58b7d0c9f970.jpg",
+      "discription": "Dogs may pretend to be sick to get more attention from their owners."
+    },
+    {
+      
+      "id": 6,
+      "url":"https://cf.ltkcdn.net/cats/cat-health/images/std-xs/321627-340x227-cat-head-tilt.jpg",
+      "discription": "Cats can rotate their ears up to 180º."
+    },
+    {
+      
+      "id": 7,
+      "url":"https://live.staticflickr.com/65535/48449335126_4926e8eb50_b.jpg",
+      "discription": "The word 'pet' was first given to humans, often in regards to a spoiled, whiny child. Only later did it transition to animals."
+    }
+  ]
+}
